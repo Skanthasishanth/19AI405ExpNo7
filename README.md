@@ -210,7 +210,8 @@ if __name__ == "__main__":
 <hr>
 <h2>Output:</h2>
 
-![Screenshot 2024-09-26 092019](https://github.com/user-attachments/assets/57a87712-581d-47c2-bec6-fbdc96427dbc)
+![777](https://github.com/user-attachments/assets/722288f3-17eb-486b-9ffa-a7d00c9ccd37)
+
 <hr>
 
 ## RESULT:
